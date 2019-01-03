@@ -1,3 +1,3 @@
 [submodule "helloapi"]
 	path = helloapi
-	url = ./helloapi/
+	url = git@github.com:shining-mind/nodejs-masterclass.git
